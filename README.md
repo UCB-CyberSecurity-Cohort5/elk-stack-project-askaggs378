@@ -29,8 +29,8 @@ Load balancing ensures that the application will be highly _____, in addition to
 - _The advantage of the jumpbox is that they add a layer of security to the web servers and keep it from being exposed to the public._
 
 Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the _____ and system _____.
-- _TODO: The filebeat watches for any log data._
-- _TODO: The Metricbeat records the metric data from target servers._
+- _The filebeat watches for any log data._
+- _The Metricbeat records the metric data from target servers._
 
 The configuration details of each machine may be found below.
 _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdown_tables) to add/remove values from the table_.
