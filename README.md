@@ -144,7 +144,7 @@ In the last 24 hours, of the visitors from China, how many were using Mac OSX?
 
 In the last 2 days, what percentage of visitors received 404 errors? How about 503 errors?
 
-![TODO: Error page](images/.png)
+![TODO: Error page](images/errorimage.png)
 
 - _
 
