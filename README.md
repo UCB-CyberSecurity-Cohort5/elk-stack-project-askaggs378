@@ -153,6 +153,11 @@ In the last 2 days, what percentage of visitors received 404 errors? How about 5
 
 - _In the last 7 days, what country produced the majority of the traffic on the website?_
 
+![TODO: Traffic page](images/countrywiththehighesttraffic.png)
+
+- _ China produced the most traffic
+- _ The time of day that had the most traffic was 9:00 am - 10:00 am
+
 
 - _Of the traffic that's coming from that country, what time of day had the highest amount of activity?_
 
