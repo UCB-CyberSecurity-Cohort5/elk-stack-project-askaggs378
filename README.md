@@ -126,4 +126,4 @@ Which URL do you navigate to in order to check that the ELK server is running?
 
 Add the sample web log data to Kibana.
 
-![TODO: Update the path with the name of your diagram](Images/diagram_filename.png)
+![TODO: Sample Wb log data to Kibana ](images/sampleweblogdata.png)
