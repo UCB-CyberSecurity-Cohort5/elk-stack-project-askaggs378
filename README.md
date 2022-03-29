@@ -121,3 +121,9 @@ Which file do you update to make Ansible run the playbook on a specific machine?
 
 Which URL do you navigate to in order to check that the ELK server is running?
 - _http://20.121.7.192:5601/app/kibana_
+
+### Kibana Web Log Data
+
+Add the sample web log data to Kibana.
+
+![TODO: Update the path with the name of your diagram](Images/diagram_filename.png)
