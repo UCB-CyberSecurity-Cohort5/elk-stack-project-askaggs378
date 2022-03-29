@@ -134,11 +134,12 @@ Answer the following questions:
 In the last 7 days, how many unique visitors were located in India?
 
 ![TODO: Web Traffic India](images/kibanawebtrafficindia.png)
+
 - _224_
 
 In the last 24 hours, of the visitors from China, how many were using Mac OSX?
 
-![TODO: Kiaban Traffic China](images/kibanatrafficchina.png)
+![TODO: Kibana Traffic China](images/kibanatrafficchina.png)
 
 - _59_
 
@@ -146,7 +147,8 @@ In the last 2 days, what percentage of visitors received 404 errors? How about 5
 
 ![TODO: Error page](images/errorimage.png)
 
-- _
+- _404: 11.111%_
+- _503: 0%_
 
 
 - _In the last 7 days, what country produced the majority of the traffic on the website?_
