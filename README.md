@@ -151,16 +151,24 @@ In the last 2 days, what percentage of visitors received 404 errors? How about 5
 - _503: 0%_
 
 
-- _In the last 7 days, what country produced the majority of the traffic on the website?_
+In the last 7 days, what country produced the majority of the traffic on the website?
 
 ![TODO: Traffic page](images/countrywiththehighesttraffic.png)
 
 - _ China produced the most traffic
+
+
+Of the traffic that's coming from that country, what time of day had the highest amount of activity?
 - _ The time of day that had the most traffic was 9:00 am - 10:00 am
 
 
-- _Of the traffic that's coming from that country, what time of day had the highest amount of activity?_
-
-
 List all the types of downloaded files that have been identified for the last 7 days, along with a short description of each file type (use Google if you aren't sure about a particular file type)
+
+![TODO: downloaded files](images/downloadedfiles.png)
+
+- _gz:These files are compressed files and can be opened with GNU zip._ 
+- _css: These files are used to formaout the layout of an entire website._
+- _zip: These files do not take much storage space and can compress one or more files together._
+- _deb: This file is a  Debian Software Package file and is used to install apps on Linux._
+- _rpm: This file is a Red Hat Software Package file and it stores installation packages on Linux._
 
