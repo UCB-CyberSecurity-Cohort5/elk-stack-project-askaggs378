@@ -211,10 +211,8 @@ What is the source IP address of this activity?
 - _184.167.34.105_
 -
 What are the geo coordinates of this activity?
-- _{
-  "lat": 36.38559583,
-  "lon": -97.27721083
-}_
+- _{"lat": 36.38559583, "lon": -97.27721083}_
+
 What OS was the source machine running?
 
 - _ios_
@@ -230,7 +228,13 @@ From what website did the visitor's traffic originate?
 ![TODO: Answers for activity](images/answersforactivity.png)
 
 What do you think the user was doing?
+
+- _Downladding a Linux package
 Was the file they downloaded malicious? If not, what is the file used for?
+
+- _I do not believe that it's malicious. The file maybe to install or update a file.
 Is there anything that seems suspicious about this activity?
 Is any of the traffic you inspected potentially outside of compliance guidlines?
+- _ What was suspicious was the referral link was from Facebook.
+- _ I believe that it might not be in compliance due to the fact that it came from Facebook.
 
