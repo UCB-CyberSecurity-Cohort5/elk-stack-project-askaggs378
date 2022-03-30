@@ -182,9 +182,25 @@ In your own words, is there anything that seems potentially strange about this a
 
 What is the timestamp for this event?
 
-![TODO: timestamp](images/timestamp.png)
+![TODO: filter data](images/filterdatabyevent2.png)
+
+![TODO: timestamp 2](images/timestamp2.png)
+
 
 What kind of file was downloaded?
+
+![TODO: file](images/filedownloaded.png)
+
+- _A zip file_
+
+
+
 From what country did this activity originate?
+
+- _India_
+
 What HTTP response codes were encountered by this visitor?
 
+![TODO: HTTP Response](images/HTTPresponse.png)
+
+- _200 OK_
