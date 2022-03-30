@@ -204,3 +204,31 @@ What HTTP response codes were encountered by this visitor?
 ![TODO: HTTP Response](images/HTTPresponse.png)
 
 - _200 OK_
+
+
+What is the source IP address of this activity?
+
+- _184.167.34.105_
+-
+What are the geo coordinates of this activity?
+- _{
+  "lat": 36.38559583,
+  "lon": -97.27721083
+}_
+What OS was the source machine running?
+
+- _ios_
+
+What is the full URL that was accessed?
+
+- _https://artifacts.elastic.co/downloads/apm-server/apm-server-6.3.2-windows-x86.zip_
+
+From what website did the visitor's traffic originate?
+
+- _Facebook_
+
+What do you think the user was doing?
+Was the file they downloaded malicious? If not, what is the file used for?
+Is there anything that seems suspicious about this activity?
+Is any of the traffic you inspected potentially outside of compliance guidlines?
+
