@@ -227,6 +227,8 @@ From what website did the visitor's traffic originate?
 
 - _Facebook_
 
+![TODO: Answers for activity](images/answersforactivity.png)
+
 What do you think the user was doing?
 Was the file they downloaded malicious? If not, what is the file used for?
 Is there anything that seems suspicious about this activity?
