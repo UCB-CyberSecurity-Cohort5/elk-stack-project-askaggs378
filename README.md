@@ -166,9 +166,25 @@ List all the types of downloaded files that have been identified for the last 7 
 
 ![TODO: downloaded files](images/downloadedfiles.png)
 
-- _gz:These files are compressed files and can be opened with GNU zip._ 
+- _gz:  These files are compressed files and can be opened with GNU zip._ 
 - _css: These files are used to formaout the layout of an entire website._
 - _zip: These files do not take much storage space and can compress one or more files together._
 - _deb: This file is a  Debian Software Package file and is used to install apps on Linux._
 - _rpm: This file is a Red Hat Software Package file and it stores installation packages on Linux._
+
+Locate the time frame in the last 7 days with the most amount of bytes (activity).
+
+![TODO: timestamp](images/timestamp.png)
+
+In your own words, is there anything that seems potentially strange about this activity?
+
+- _On March 28th, it looks like there is one vistor that is using a unusual amount of bytes compared to all of the other usages._  
+
+What is the timestamp for this event?
+
+![TODO: timestamp](images/timestamp.png)
+
+What kind of file was downloaded?
+From what country did this activity originate?
+What HTTP response codes were encountered by this visitor?
 
