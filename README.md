@@ -115,9 +115,7 @@ SSH into the control node and follow the steps below:
 - _Nano filebeat-config.yml_
 - _Under output.elasticserach change the IP address to your ELK VM private IP address with port 9200_
 - _Under setup.kibana change to the IP address to your ELK VM private IP address with port 5601_
-
-Which URL do you navigate to in order to check that the ELK server is running?
-- _http://20.121.7.192:5601/app/kibana_
+- _The URL you will need to navigate to in order to check that the ELK server is running is http://20.121.7.192:5601/app/kibana_
 
 ### Kibana Web Log Data
 
