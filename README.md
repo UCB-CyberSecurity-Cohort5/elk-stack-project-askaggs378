@@ -142,7 +142,7 @@ In the last 2 days, what 11.111% of visitors received 404 errors and 0% had 503 
 
 
 
-In the last 7 days, China produced the majority of the traffic on the website and the time of day that had the most traffic was from 9:00 am - 10:00 am
+In the last 7 days, China produced the majority of the traffic on the website and the time of day that had the most traffic was from 9:00 am - 10:00 am.
 
 ![TODO: Traffic page](images/countrywiththehighesttraffic.png)
 
@@ -173,14 +173,11 @@ The file that was downloaded was a zip file.
 
 ![TODO: file](images/filedownloaded.png)
 
-
-The country that this activity originated from was India.
-
+The country that this activity originated from was India and the HTTP response code 200 OK, were encountered by this visitor.
 
 ![TODO: HTTP Response](images/HTTPresponse.png)
 
 
-The HTTP response code 200 OK, were encountered by this visitor.
 
 ![TODO: Answers for activity](images/answersforactivity.png)
 
