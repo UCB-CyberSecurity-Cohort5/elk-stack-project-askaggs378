@@ -129,7 +129,6 @@ In the last 7 days, 224 visitors were located in India.
 
 ![TODO: Web Traffic India](images/kibanawebtrafficindia.png)
 
-- _224_
 
 In the last 24 hours, 59 of the visitors were from China and were using Mac OSX.
 
@@ -148,9 +147,7 @@ In the last 7 days, China produced the majority of the traffic on the website.
 ![TODO: Traffic page](images/countrywiththehighesttraffic.png)
 
 
-
-Of the traffic that's coming from that country, what time of day had the highest amount of activity?
-- _ The time of day that had the most traffic was 9:00 am - 10:00 am
+The time of day that had the most traffic was from 9:00 am - 10:00 am
 
 
 These are the types of downloaded files that have been identified for the last 7 days: 
