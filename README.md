@@ -52,7 +52,8 @@ Only the JumpBox machine can accept connections from the Internet. Access to thi
 - _104.42.155.0_
 
 Machines within the network can only be accessed by the JumpBox VM.
-- _The machine that will allow me access will be the JumpBox VM. _
+
+- _The machine that will allow me access will be the JumpBox VM._
 - _Public IP: 104.42.155.0_
 - _Private IP: 10.1.0.5_
 
