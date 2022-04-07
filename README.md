@@ -176,25 +176,21 @@ The file that was downloaded was a zip file.
 
 The country that this activity originated from was India.
 
-The HTTP response code 200 OK, were encountered by this visitor.
 
 ![TODO: HTTP Response](images/HTTPresponse.png)
 
 
-The source IP address of this activity is 184.167.34.105.
-
-The geo coordinates of this activity are {"lat": 36.38559583, "lon": -97.27721083}.
-
-The IOS was the machine running source.
-
-The full URL that was accessed was https://artifacts.elastic.co/downloads/apm-server/apm-server-6.3.2-windows-x86.zip.
-
-The website that the visitor's traffic originated from was Facebook.
+The HTTP response code 200 OK, were encountered by this visitor.
 
 ![TODO: Answers for activity](images/answersforactivity.png)
 
-The user was downloading a linux package.
 
-I do not believe that it's malicious. The file maybe to install or update a file.
-What was suspicious was the referral link was from Facebook. I believe that it might not be in compliance due to the fact that it came from Facebook.
+- _The source IP address of this activity is 184.167.34.105._
+- _The geo coordinates of this activity are {"lat": 36.38559583, "lon": -97.27721083}._
+- _The IOS was the machine running source_
+- _The full URL that was accessed was https://artifacts.elastic.co/downloads/apm-server/apm-server-6.3.2-windows-x86.zip._
+- _The website that the visitor's traffic originated from was Facebook._
+- _The user was downloading a linux package._
+- _I do not believe that it's malicious. The file maybe to install or update a file.
+   What was suspicious was the referral link was from Facebook. I believe that it might not be in compliance due to the fact that it came from Facebook._
 
