@@ -7,7 +7,7 @@ The files in this repository were used to configure the network depicted below.
 
 ![Network Diagram](diagram/azurenetwork.png)
 
-These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
+These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the YAML file may be used to install only certain pieces of it, such as Filebeat.
 
   - _elk.yml._
 
@@ -24,16 +24,16 @@ This document contains the following details:
 
 The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the D*mn Vulnerable Web Application.
 
-Load balancing ensures that the application will be highly _____, in addition to restricting _____ to the network.
+Load balancing ensures that the application will be highly available, in addition to restricting inbound access to the network.
 - _The load balancers prevent any unauthorized traffic reaching the application._
 - _The advantage of the jumpbox is that they add a layer of security to the web servers and keep it from being exposed to the public._
 
-Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the _____ and system _____.
+Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the filesystem and system performance.
 - _The filebeat watches for any log data._
 - _The Metricbeat records the metric data from target servers._
 
 The configuration details of each machine may be found below.
-_Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdown_tables) to add/remove values from the table_.
+
 
 | Name     | Function | IP Address | Operating System    |
 |----------|----------|------------|---------------------|
