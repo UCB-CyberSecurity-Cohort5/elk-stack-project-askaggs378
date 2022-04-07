@@ -142,12 +142,9 @@ In the last 2 days, what 11.111% of visitors received 404 errors and 0% had 503 
 
 
 
-In the last 7 days, China produced the majority of the traffic on the website.
+In the last 7 days, China produced the majority of the traffic on the website and the time of day that had the most traffic was from 9:00 am - 10:00 am
 
 ![TODO: Traffic page](images/countrywiththehighesttraffic.png)
-
-
-The time of day that had the most traffic was from 9:00 am - 10:00 am
 
 
 These are the types of downloaded files that have been identified for the last 7 days: 
